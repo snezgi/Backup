@@ -1,0 +1,115 @@
+init-params: initializing eigensolver data
+Computing 4 bands with 1.000000e-07 tolerance.
+Working in 2 dimensions.
+Grid size is 32 x 64 x 1.
+Solving for 4 bands at a time.
+Creating Maxwell data...
+Allocating fields...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 2, 0)
+     (0, 0, 1)
+Cell volume = 2
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.5, -0)
+     (0, -0, 1)
+Geometric objects:
+     block, center = (0,0,0)
+          size (0.4,0.4,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon = 12
+Geometric object tree has depth 1 and 1 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+10 k-points:
+     (0,0,0)
+     (0.111111,0,0)
+     (0.222222,0,0)
+     (0.333333,0,0)
+     (0.444444,0,0)
+     (0.555556,0,0)
+     (0.666667,0,0)
+     (0.777778,0,0)
+     (0.888889,0,0)
+     (1,0,0)
+Solving for band polarization: tm.
+Initializing fields to random numbers...
+elapsed time for initialization: 0 seconds.
+epsilon: 1-12, mean 1.817, harm. mean 1.08071, 8.25195% > 1, 7.4273% "fill"
+Outputting epsilon...
+solve_kpoint (0,0,0):
+tmfreqs:, k index, k1, k2, k3, kmag/2pi, tm band 1, tm band 2, tm band 3, tm band 4
+Solving for bands 2 to 4...
+Finished solving for bands 2 to 4 after 10 iterations.
+tmfreqs:, 1, 0, 0, 0, 0, 0, 0.33712, 0.422017, 0.519675
+elapsed time for k point: 0 seconds.
+tmyparity:, 1, 1.0, 0.999999999995187, -0.999999999875114, 0.999999990337731
+solve_kpoint (0.111111,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 2, 0.111111, 0, 0, 0.111111, 0.0811204, 0.347417, 0.429307, 0.511152
+elapsed time for k point: 0 seconds.
+tmyparity:, 2, 1.0, 1.0, -0.999999999999999, 0.999999999999738
+solve_kpoint (0.222222,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 5 iterations.
+tmfreqs:, 3, 0.222222, 0, 0, 0.222222, 0.154161, 0.376642, 0.448183, 0.49367
+elapsed time for k point: 0 seconds.
+tmyparity:, 3, 1.0, 1.0, -1.0, 0.999999999999999
+solve_kpoint (0.333333,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 4, 0.333333, 0, 0, 0.333333, 0.210777, 0.410028, 0.470463, 0.491496
+elapsed time for k point: 0 seconds.
+tmyparity:, 4, 0.999999999999999, 1.0, -1.0, 1.0
+solve_kpoint (0.444444,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 7 iterations.
+tmfreqs:, 5, 0.444444, 0, 0, 0.444444, 0.243044, 0.415486, 0.485512, 0.541871
+elapsed time for k point: 0 seconds.
+tmyparity:, 5, 1.0, 0.999999999999999, -1.0, 0.999999999999999
+solve_kpoint (0.555556,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 15 iterations.
+tmfreqs:, 6, 0.555556, 0, 0, 0.555556, 0.243044, 0.415486, 0.485512, 0.541871
+elapsed time for k point: 0 seconds.
+tmyparity:, 6, 0.999999999999999, 1.0, -1.0, 1.0
+solve_kpoint (0.666667,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 7, 0.666667, 0, 0, 0.666667, 0.210777, 0.410028, 0.470463, 0.491496
+elapsed time for k point: 0 seconds.
+tmyparity:, 7, 0.999999999999999, 0.999999999999999, -1.0, 1.0
+solve_kpoint (0.777778,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 8, 0.777778, 0, 0, 0.777778, 0.154161, 0.376642, 0.448183, 0.49367
+elapsed time for k point: 0 seconds.
+tmyparity:, 8, 1.0, 1.0, -1.0, 1.0
+solve_kpoint (0.888889,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 9, 0.888889, 0, 0, 0.888889, 0.0811204, 0.347417, 0.429307, 0.511152
+elapsed time for k point: 0 seconds.
+tmyparity:, 9, 1.0, 1.0, -1.0, 1.0
+solve_kpoint (1,0,0):
+Solving for bands 1 to 4...
+Finished solving for bands 1 to 4 after 6 iterations.
+tmfreqs:, 10, 1, 0, 0, 1, 1.07249e-05, 0.33712, 0.422017, 0.519675
+elapsed time for k point: 1 seconds.
+tmyparity:, 10, 0.999999999999996, 0.999999999999998, -0.999999999999999, 0.999999999999999
+Band 1 range: 0.0 at #(0 0 0) to 0.243043748785481 at #(4/9 0 0)
+Band 2 range: 0.337120375577338 at #(1 0 0) to 0.415485811924898 at #(5/9 0 0)
+Band 3 range: 0.42201701938069 at #(0 0 0) to 0.485511937816281 at #(4/9 0 0)
+Band 4 range: 0.4914956917599 at #(1/3 0 0) to 0.541871306582701 at #(5/9 0 0)
+Gap from band 1 (0.243043748785481) to band 2 (0.337120375577338), 32.4310390254407%
+Gap from band 2 (0.415485811924898) to band 3 (0.42201701938069), 1.55968605995294%
+Gap from band 3 (0.485511937816281) to band 4 (0.4914956917599), 1.22491447609563%
+total elapsed time for run: 1 seconds.
+done.
+
+Some deprecated features have been used.  Set the environment
+variable GUILE_WARN_DEPRECATED to "detailed" and rerun the
+program to get more information.  Set it to "no" to suppress
+this message.

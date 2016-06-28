@@ -1,0 +1,19 @@
+zevenyoddfreqs:, k index, k1, k2, k3, kmag/2pi, zevenyodd band 1
+zevenyoddfreqs:, 1, 0, 0, 0, 0, 0
+zevenyoddfreqs:, 2, 0.0294118, 0, 0, 0.0294118, 0.0286112
+zevenyoddfreqs:, 3, 0.0588235, 0, 0, 0.0588235, 0.0570357
+zevenyoddfreqs:, 4, 0.0882353, 0, 0, 0.0882353, 0.0849124
+zevenyoddfreqs:, 5, 0.117647, 0, 0, 0.117647, 0.111155
+zevenyoddfreqs:, 6, 0.147059, 0, 0, 0.147059, 0.132214
+zevenyoddfreqs:, 7, 0.176471, 0, 0, 0.176471, 0.144537
+zevenyoddfreqs:, 8, 0.205882, 0, 0, 0.205882, 0.151899
+zevenyoddfreqs:, 9, 0.235294, 0, 0, 0.235294, 0.157511
+zevenyoddfreqs:, 10, 0.264706, 0, 0, 0.264706, 0.162442
+zevenyoddfreqs:, 11, 0.294118, 0, 0, 0.294118, 0.167078
+zevenyoddfreqs:, 12, 0.323529, 0, 0, 0.323529, 0.171567
+zevenyoddfreqs:, 13, 0.352941, 0, 0, 0.352941, 0.17595
+zevenyoddfreqs:, 14, 0.382353, 0, 0, 0.382353, 0.180187
+zevenyoddfreqs:, 15, 0.411765, 0, 0, 0.411765, 0.184157
+zevenyoddfreqs:, 16, 0.441176, 0, 0, 0.441176, 0.187607
+zevenyoddfreqs:, 17, 0.470588, 0, 0, 0.470588, 0.190095
+zevenyoddfreqs:, 18, 0.5, 0, 0, 0.5, 0.191031

@@ -1,0 +1,579 @@
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 3 dimensions.
+Grid size is 32 x 128 x 128.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Allocating fields...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 8, 0)
+     (0, 0, 8)
+Cell volume = 64
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.125, -0)
+     (0, -0, 0.125)
+Geometric objects:
+     cylinder, center = (0,0,0)
+          radius 0.8, height 0.8, axis (1, 0, 0)
+          dielectric constant epsilon = 16
+Geometric object tree has depth 1 and 1 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+18 k-points:
+     (0,0,0)
+     (0.0294118,0,0)
+     (0.0588235,0,0)
+     (0.0882353,0,0)
+     (0.117647,0,0)
+     (0.147059,0,0)
+     (0.176471,0,0)
+     (0.205882,0,0)
+     (0.235294,0,0)
+     (0.264706,0,0)
+     (0.294118,0,0)
+     (0.323529,0,0)
+     (0.352941,0,0)
+     (0.382353,0,0)
+     (0.411765,0,0)
+     (0.441176,0,0)
+     (0.470588,0,0)
+     (0.5,0,0)
+Solving for band polarization: zevenyeven.
+Initializing fields to random numbers...
+elapsed time for initialization: 2 seconds.
+epsilon: 1-16, mean 1.37701, harm. mean 1.02683, 2.97146% > 1, 2.51343% "fill"
+Outputting apl2014-epsilon...
+solve_kpoint (0,0,0):
+zevenyevenfreqs:, k index, k1, k2, k3, kmag/2pi, zevenyeven band 1
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.01004407708573864 (0.000959333% change)
+Finished solving for bands 1 to 1 after 15 iterations.
+zevenyevenfreqs:, 1, 0, 0, 0, 0, 0.10022
+elapsed time for k point: 6 seconds.
+solve_kpoint (0.0294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyevenfreqs:, 2, 0.0294118, 0, 0, 0.0294118, 0.104129
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.0588235,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyevenfreqs:, 3, 0.0588235, 0, 0, 0.0588235, 0.115009
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.0882353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zevenyevenfreqs:, 4, 0.0882353, 0, 0, 0.0882353, 0.130971
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.117647,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zevenyevenfreqs:, 5, 0.117647, 0, 0, 0.117647, 0.150074
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.147059,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyevenfreqs:, 6, 0.147059, 0, 0, 0.147059, 0.170592
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.176471,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03633006533659629 (3.8925e-11% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyevenfreqs:, 7, 0.176471, 0, 0, 0.176471, 0.190604
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.205882,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyevenfreqs:, 8, 0.205882, 0, 0, 0.205882, 0.207382
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.235294,0,0):
+Solving for bands 1 to 1...
+    iteration   12: trace = 0.0478624426253638 (3.99404e-07% change)
+Finished solving for bands 1 to 1 after 12 iterations.
+zevenyevenfreqs:, 9, 0.235294, 0, 0, 0.235294, 0.218775
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.264706,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.05096677952693807 (5.40915e-05% change)
+Finished solving for bands 1 to 1 after 20 iterations.
+zevenyevenfreqs:, 10, 0.264706, 0, 0, 0.264706, 0.225758
+elapsed time for k point: 8 seconds.
+solve_kpoint (0.294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyevenfreqs:, 11, 0.294118, 0, 0, 0.294118, 0.230287
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.323529,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyevenfreqs:, 12, 0.323529, 0, 0, 0.323529, 0.233486
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.352941,0,0):
+Solving for bands 1 to 1...
+    iteration   12: trace = 0.05563543337743052 (1.27469e-05% change)
+Finished solving for bands 1 to 1 after 14 iterations.
+zevenyevenfreqs:, 13, 0.352941, 0, 0, 0.352941, 0.235872
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.382353,0,0):
+Solving for bands 1 to 1...
+    iteration   12: trace = 0.05649268817125749 (6.09781e-06% change)
+Finished solving for bands 1 to 1 after 12 iterations.
+zevenyevenfreqs:, 14, 0.382353, 0, 0, 0.382353, 0.237682
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.411765,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyevenfreqs:, 15, 0.411765, 0, 0, 0.411765, 0.239031
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.441176,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyevenfreqs:, 16, 0.441176, 0, 0, 0.441176, 0.239973
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.470588,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyevenfreqs:, 17, 0.470588, 0, 0, 0.470588, 0.240532
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.5,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zevenyevenfreqs:, 18, 0.5, 0, 0, 0.5, 0.240718
+elapsed time for k point: 3 seconds.
+Band 1 range: 0.10021996300124965 at #(0.0 0.0 0.0) to 0.2407176655448619 at #(0.5 0.0 0.0)
+total elapsed time for run: 1 minute, 16 seconds.
+done.
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 3 dimensions.
+Grid size is 32 x 128 x 128.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 8, 0)
+     (0, 0, 8)
+Cell volume = 64
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.125, -0)
+     (0, -0, 0.125)
+Geometric objects:
+     cylinder, center = (0,0,0)
+          radius 0.8, height 0.8, axis (1, 0, 0)
+          dielectric constant epsilon = 16
+Geometric object tree has depth 1 and 1 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+18 k-points:
+     (0,0,0)
+     (0.0294118,0,0)
+     (0.0588235,0,0)
+     (0.0882353,0,0)
+     (0.117647,0,0)
+     (0.147059,0,0)
+     (0.176471,0,0)
+     (0.205882,0,0)
+     (0.235294,0,0)
+     (0.264706,0,0)
+     (0.294118,0,0)
+     (0.323529,0,0)
+     (0.352941,0,0)
+     (0.382353,0,0)
+     (0.411765,0,0)
+     (0.441176,0,0)
+     (0.470588,0,0)
+     (0.5,0,0)
+Solving for band polarization: zoddyeven.
+Initializing fields to random numbers...
+elapsed time for initialization: 2 seconds.
+epsilon: 1-16, mean 1.37701, harm. mean 1.02683, 2.97146% > 1, 2.51343% "fill"
+Outputting apl2014-epsilon...
+solve_kpoint (0,0,0):
+zoddyevenfreqs:, k index, k1, k2, k3, kmag/2pi, zoddyeven band 1
+zoddyevenfreqs:, 1, 0, 0, 0, 0, 0
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.0294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyevenfreqs:, 2, 0.0294118, 0, 0, 0.0294118, 0.0286111
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.0588235,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyevenfreqs:, 3, 0.0588235, 0, 0, 0.0588235, 0.0570356
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.0882353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 4, 0.0882353, 0, 0, 0.0882353, 0.0849122
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.117647,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 5, 0.117647, 0, 0, 0.117647, 0.111155
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.147059,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.01748075844849664 (8.38677e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zoddyevenfreqs:, 6, 0.147059, 0, 0, 0.147059, 0.132215
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.176471,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.02089135443779103 (4.85455e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zoddyevenfreqs:, 7, 0.176471, 0, 0, 0.176471, 0.144538
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.205882,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 8, 0.205882, 0, 0, 0.205882, 0.151901
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.235294,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 9, 0.235294, 0, 0, 0.235294, 0.157513
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.264706,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 10, 0.264706, 0, 0, 0.264706, 0.162445
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 11, 0.294118, 0, 0, 0.294118, 0.16708
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.323529,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyevenfreqs:, 12, 0.323529, 0, 0, 0.323529, 0.17157
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.352941,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyevenfreqs:, 13, 0.352941, 0, 0, 0.352941, 0.175953
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.382353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyevenfreqs:, 14, 0.382353, 0, 0, 0.382353, 0.18019
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.411765,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03391463655243995 (2.19571e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zoddyevenfreqs:, 15, 0.411765, 0, 0, 0.411765, 0.184159
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.441176,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03519737047772954 (4.5784e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zoddyevenfreqs:, 16, 0.441176, 0, 0, 0.441176, 0.18761
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.470588,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03613697443353038 (8.26726e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zoddyevenfreqs:, 17, 0.470588, 0, 0, 0.470588, 0.190097
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.5,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03649383840227786 (1.24614e-05% change)
+Finished solving for bands 1 to 1 after 12 iterations.
+zoddyevenfreqs:, 18, 0.5, 0, 0, 0.5, 0.191034
+elapsed time for k point: 5 seconds.
+Band 1 range: 0.0 at #(0.0 0.0 0.0) to 0.19103360152612614 at #(0.5 0.0 0.0)
+total elapsed time for run: 1 minute, 11 seconds.
+done.
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 3 dimensions.
+Grid size is 32 x 128 x 128.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 8, 0)
+     (0, 0, 8)
+Cell volume = 64
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.125, -0)
+     (0, -0, 0.125)
+Geometric objects:
+     cylinder, center = (0,0,0)
+          radius 0.8, height 0.8, axis (1, 0, 0)
+          dielectric constant epsilon = 16
+Geometric object tree has depth 1 and 1 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+18 k-points:
+     (0,0,0)
+     (0.0294118,0,0)
+     (0.0588235,0,0)
+     (0.0882353,0,0)
+     (0.117647,0,0)
+     (0.147059,0,0)
+     (0.176471,0,0)
+     (0.205882,0,0)
+     (0.235294,0,0)
+     (0.264706,0,0)
+     (0.294118,0,0)
+     (0.323529,0,0)
+     (0.352941,0,0)
+     (0.382353,0,0)
+     (0.411765,0,0)
+     (0.441176,0,0)
+     (0.470588,0,0)
+     (0.5,0,0)
+Solving for band polarization: zevenyodd.
+Initializing fields to random numbers...
+elapsed time for initialization: 1 seconds.
+epsilon: 1-16, mean 1.37701, harm. mean 1.02683, 2.97146% > 1, 2.51343% "fill"
+Outputting apl2014-epsilon...
+solve_kpoint (0,0,0):
+zevenyoddfreqs:, k index, k1, k2, k3, kmag/2pi, zevenyodd band 1
+zevenyoddfreqs:, 1, 0, 0, 0, 0, 0
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.0294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyoddfreqs:, 2, 0.0294118, 0, 0, 0.0294118, 0.0286112
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.0588235,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyoddfreqs:, 3, 0.0588235, 0, 0, 0.0588235, 0.0570357
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.0882353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zevenyoddfreqs:, 4, 0.0882353, 0, 0, 0.0882353, 0.0849124
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.117647,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.01235547873820752 (8.90227e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyoddfreqs:, 5, 0.117647, 0, 0, 0.117647, 0.111155
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.147059,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.01748061023016909 (1.70184e-05% change)
+Finished solving for bands 1 to 1 after 12 iterations.
+zevenyoddfreqs:, 6, 0.147059, 0, 0, 0.147059, 0.132214
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.176471,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.02089092773117651 (1.59334e-05% change)
+Finished solving for bands 1 to 1 after 12 iterations.
+zevenyoddfreqs:, 7, 0.176471, 0, 0, 0.176471, 0.144537
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.205882,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.0230731849838506 (7.09039e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyoddfreqs:, 8, 0.205882, 0, 0, 0.205882, 0.151899
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.235294,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyoddfreqs:, 9, 0.235294, 0, 0, 0.235294, 0.157511
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.264706,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zevenyoddfreqs:, 10, 0.264706, 0, 0, 0.264706, 0.162442
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zevenyoddfreqs:, 11, 0.294118, 0, 0, 0.294118, 0.167078
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.323529,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zevenyoddfreqs:, 12, 0.323529, 0, 0, 0.323529, 0.171567
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.352941,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zevenyoddfreqs:, 13, 0.352941, 0, 0, 0.352941, 0.17595
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.382353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyoddfreqs:, 14, 0.382353, 0, 0, 0.382353, 0.180187
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.411765,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyoddfreqs:, 15, 0.411765, 0, 0, 0.411765, 0.184157
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.441176,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyoddfreqs:, 16, 0.441176, 0, 0, 0.441176, 0.187607
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.470588,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zevenyoddfreqs:, 17, 0.470588, 0, 0, 0.470588, 0.190095
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.5,0,0):
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.03649290720043052 (5.5205e-06% change)
+Finished solving for bands 1 to 1 after 11 iterations.
+zevenyoddfreqs:, 18, 0.5, 0, 0, 0.5, 0.191031
+elapsed time for k point: 4 seconds.
+Band 1 range: 0.0 at #(0.0 0.0 0.0) to 0.19103116813868637 at #(0.5 0.0 0.0)
+total elapsed time for run: 1 minute, 5 seconds.
+done.
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 3 dimensions.
+Grid size is 32 x 128 x 128.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 8, 0)
+     (0, 0, 8)
+Cell volume = 64
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.125, -0)
+     (0, -0, 0.125)
+Geometric objects:
+     cylinder, center = (0,0,0)
+          radius 0.8, height 0.8, axis (1, 0, 0)
+          dielectric constant epsilon = 16
+Geometric object tree has depth 1 and 1 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+18 k-points:
+     (0,0,0)
+     (0.0294118,0,0)
+     (0.0588235,0,0)
+     (0.0882353,0,0)
+     (0.117647,0,0)
+     (0.147059,0,0)
+     (0.176471,0,0)
+     (0.205882,0,0)
+     (0.235294,0,0)
+     (0.264706,0,0)
+     (0.294118,0,0)
+     (0.323529,0,0)
+     (0.352941,0,0)
+     (0.382353,0,0)
+     (0.411765,0,0)
+     (0.441176,0,0)
+     (0.470588,0,0)
+     (0.5,0,0)
+Solving for band polarization: zoddyodd.
+Initializing fields to random numbers...
+elapsed time for initialization: 2 seconds.
+epsilon: 1-16, mean 1.37701, harm. mean 1.02683, 2.97146% > 1, 2.51343% "fill"
+Outputting apl2014-epsilon...
+solve_kpoint (0,0,0):
+zoddyoddfreqs:, k index, k1, k2, k3, kmag/2pi, zoddyodd band 1
+Solving for bands 1 to 1...
+    iteration   11: trace = 0.01274877340633739 (0.0379816% change)
+Finished solving for bands 1 to 1 after 20 iterations.
+zoddyoddfreqs:, 1, 0, 0, 0, 0, 0.112901
+elapsed time for k point: 8 seconds.
+solve_kpoint (0.0294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 2, 0.0294118, 0, 0, 0.0294118, 0.115085
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.0588235,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 3, 0.0588235, 0, 0, 0.0588235, 0.12066
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.0882353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 4, 0.0882353, 0, 0, 0.0882353, 0.127461
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.117647,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 5, 0.117647, 0, 0, 0.117647, 0.13395
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.147059,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 6, 0.147059, 0, 0, 0.147059, 0.139877
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.176471,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyoddfreqs:, 7, 0.176471, 0, 0, 0.176471, 0.145457
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.205882,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyoddfreqs:, 8, 0.205882, 0, 0, 0.205882, 0.15087
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.235294,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyoddfreqs:, 9, 0.235294, 0, 0, 0.235294, 0.15621
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.264706,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddyoddfreqs:, 10, 0.264706, 0, 0, 0.264706, 0.161512
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.294118,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddyoddfreqs:, 11, 0.294118, 0, 0, 0.294118, 0.166776
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.323529,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddyoddfreqs:, 12, 0.323529, 0, 0, 0.323529, 0.171972
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.352941,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddyoddfreqs:, 13, 0.352941, 0, 0, 0.352941, 0.177043
+elapsed time for k point: 3 seconds.
+solve_kpoint (0.382353,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddyoddfreqs:, 14, 0.382353, 0, 0, 0.382353, 0.181885
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.411765,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddyoddfreqs:, 15, 0.411765, 0, 0, 0.411765, 0.186324
+elapsed time for k point: 4 seconds.
+solve_kpoint (0.441176,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 16, 0.441176, 0, 0, 0.441176, 0.190068
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.470588,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 17, 0.470588, 0, 0, 0.470588, 0.192673
+elapsed time for k point: 5 seconds.
+solve_kpoint (0.5,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddyoddfreqs:, 18, 0.5, 0, 0, 0.5, 0.193625
+elapsed time for k point: 4 seconds.
+Band 1 range: 0.11290102840641073 at #(0.0 0.0 0.0) to 0.1936246869958606 at #(0.5 0.0 0.0)
+total elapsed time for run: 1 minute, 16 seconds.
+done.
+total time for both TE and TM bands: 4 minutes, 48 seconds.
+eigensolver iterations for 72 k-points: 0-20, mean = 88/9, median = 10.0
+mean flops per iteration = 36583984.54545455
+mean time per iteration = 0.4090909090909091 s

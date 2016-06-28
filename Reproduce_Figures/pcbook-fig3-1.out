@@ -1,0 +1,233 @@
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 2 dimensions.
+Grid size is 32 x 128 x 1.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Allocating fields...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 4, 0)
+     (0, 0, 1)
+Cell volume = 4
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.25, -0)
+     (0, -0, 1)
+Geometric objects:
+     block, center = (0,0,0)
+          size (1,0.4,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon = 12
+Geometric object tree has depth 1 and 3 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+14 k-points:
+     (0,0,0)
+     (0.0769231,0,0)
+     (0.153846,0,0)
+     (0.230769,0,0)
+     (0.307692,0,0)
+     (0.384615,0,0)
+     (0.461538,0,0)
+     (0.538462,0,0)
+     (0.615385,0,0)
+     (0.692308,0,0)
+     (0.769231,0,0)
+     (0.846154,0,0)
+     (0.923077,0,0)
+     (1,0,0)
+Solving for band polarization: tmyeven.
+Initializing fields to random numbers...
+elapsed time for initialization: 0 seconds.
+epsilon: 1-12, mean 2.11719, harm. mean 1.10266, 10.1562% > 1, 10.1562% "fill"
+Outputting pcbook-fig3-1-epsilon...
+solve_kpoint (0,0,0):
+tmyevenfreqs:, k index, k1, k2, k3, kmag/2pi, tmyeven band 1
+tmyevenfreqs:, 1, 0, 0, 0, 0, 0
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.0769231,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 2, 0.0769231, 0, 0, 0.0769231, 0.0510756
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.153846,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 3, 0.153846, 0, 0, 0.153846, 0.0932693
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.230769,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 4, 0.230769, 0, 0, 0.230769, 0.125782
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.307692,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 5, 0.307692, 0, 0, 0.307692, 0.153064
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.384615,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 6, 0.384615, 0, 0, 0.384615, 0.177967
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.461538,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 7, 0.461538, 0, 0, 0.461538, 0.201625
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.538462,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 8, 0.538462, 0, 0, 0.538462, 0.224521
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.615385,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 9, 0.615385, 0, 0, 0.615385, 0.246908
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.692308,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 3 iterations.
+tmyevenfreqs:, 10, 0.692308, 0, 0, 0.692308, 0.26894
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.769231,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 3 iterations.
+tmyevenfreqs:, 11, 0.769231, 0, 0, 0.769231, 0.290718
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.846154,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 3 iterations.
+tmyevenfreqs:, 12, 0.846154, 0, 0, 0.846154, 0.312314
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.923077,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 13, 0.923077, 0, 0, 0.923077, 0.33378
+elapsed time for k point: 0 seconds.
+solve_kpoint (1,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyevenfreqs:, 14, 1, 0, 0, 1, 0.355151
+elapsed time for k point: 0 seconds.
+Band 1 range: 0.0 at #(0.0 0.0 0.0) to 0.35515098142723384 at #(1.0 0.0 0.0)
+total elapsed time for run: 0 seconds.
+done.
+init-params: initializing eigensolver data
+Computing 1 bands with 1.000000e-07 tolerance.
+Working in 2 dimensions.
+Grid size is 32 x 128 x 1.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 4, 0)
+     (0, 0, 1)
+Cell volume = 4
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.25, -0)
+     (0, -0, 1)
+Geometric objects:
+     block, center = (0,0,0)
+          size (1,0.4,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon = 12
+Geometric object tree has depth 1 and 3 object nodes (vs. 1 actual objects)
+Initializing dielectric function...
+14 k-points:
+     (0,0,0)
+     (0.0769231,0,0)
+     (0.153846,0,0)
+     (0.230769,0,0)
+     (0.307692,0,0)
+     (0.384615,0,0)
+     (0.461538,0,0)
+     (0.538462,0,0)
+     (0.615385,0,0)
+     (0.692308,0,0)
+     (0.769231,0,0)
+     (0.846154,0,0)
+     (0.923077,0,0)
+     (1,0,0)
+Solving for band polarization: tmyodd.
+Initializing fields to random numbers...
+elapsed time for initialization: 0 seconds.
+epsilon: 1-12, mean 2.11719, harm. mean 1.10266, 10.1562% > 1, 10.1562% "fill"
+Outputting pcbook-fig3-1-epsilon...
+solve_kpoint (0,0,0):
+tmyoddfreqs:, k index, k1, k2, k3, kmag/2pi, tmyodd band 1
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+tmyoddfreqs:, 1, 0, 0, 0, 0, 0.237159
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.0769231,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 2, 0.0769231, 0, 0, 0.0769231, 0.247553
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.153846,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 3, 0.153846, 0, 0, 0.153846, 0.27559
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.230769,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 4, 0.230769, 0, 0, 0.230769, 0.313832
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.307692,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 5, 0.307692, 0, 0, 0.307692, 0.353215
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.384615,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 6, 0.384615, 0, 0, 0.384615, 0.386286
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.461538,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 7, 0.461538, 0, 0, 0.461538, 0.412308
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.538462,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 8, 0.538462, 0, 0, 0.538462, 0.434261
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.615385,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+tmyoddfreqs:, 9, 0.615385, 0, 0, 0.615385, 0.454234
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.692308,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 10, 0.692308, 0, 0, 0.692308, 0.473212
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.769231,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 11, 0.769231, 0, 0, 0.769231, 0.491664
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.846154,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 12, 0.846154, 0, 0, 0.846154, 0.509832
+elapsed time for k point: 0 seconds.
+solve_kpoint (0.923077,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 13, 0.923077, 0, 0, 0.923077, 0.527854
+elapsed time for k point: 0 seconds.
+solve_kpoint (1,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+tmyoddfreqs:, 14, 1, 0, 0, 1, 0.545811
+elapsed time for k point: 0 seconds.
+Band 1 range: 0.23715864894362532 at #(0.0 0.0 0.0) to 0.5458114546088971 at #(1.0 0.0 0.0)
+total elapsed time for run: 0 seconds.
+done.
